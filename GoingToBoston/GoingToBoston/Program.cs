@@ -1,4 +1,11 @@
-﻿using System;
+﻿
+/*
+Name: GoingToBoston
+Author: Daniel Bearman
+Creation: 01/12/2017
+State: COMPLETE
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
